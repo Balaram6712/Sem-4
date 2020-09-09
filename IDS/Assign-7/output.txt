@@ -1,0 +1,32 @@
+true
+
+true
+
+true
+
+true
+
+true
+
+true
+
+true
+
+true
+
+In-order Traversal: 0 3 5 7 9 10 20 25 
+Pre-order Traversal: 10 3 0 5 9 7 20 25 
+Post-order Traversal: 0 7 9 5 3 25 20 10 
+
+true
+
+In-order Traversal: 0 3 5 7 9 10 20 
+Pre-order Traversal: 10 3 0 5 9 7 20 
+Post-order Traversal: 0 7 9 5 3 20 10 
+
+true
+
+In-order Traversal: 0 3 5 7 9 10 
+Pre-order Traversal: 10 3 0 5 9 7 
+Post-order Traversal: 0 7 9 5 3 10 
+

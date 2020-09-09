@@ -1,0 +1,7 @@
+Please fine the 3 files Attached:
+1)Source code ES18BTECH11011-Assignment-6.cpp
+2)input.txt
+3)output.txt are the files which were used to run them in my computer and the outputs observed.
+
+Compile the file as: g++ ES18BTECH11011-Assignment-6.cpp
+Run it as: ./a.out 

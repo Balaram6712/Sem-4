@@ -1,0 +1,8 @@
+Matrix 1 is square matrix
+Matrix 2 is not square matrix
+Matrix 2 is not symmetrical
+Matrix 1 is symmetrical
+Resultant Matrix:
+1 2 3 4 
+1 2 3 4 
+1 2 3 4 

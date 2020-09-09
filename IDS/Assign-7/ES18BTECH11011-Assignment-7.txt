@@ -1,0 +1,7 @@
+Files attached in this zip file are:
+1)Source code
+2)input.txt
+3)output.txt,putput1.tt,output2.txt to tell that there is randomization while inserting accoriding to the size of the subtree where insert root occurs randomly which has geen run in by Laptop terminal.
+
+compile the file as: g++ ES18BTECH11011-Assignemnt-7.cpp
+run it as:  ./a.out

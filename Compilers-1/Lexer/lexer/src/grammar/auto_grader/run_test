@@ -1,0 +1,19 @@
+#!/bin/bash
+
+mkdir output
+
+for path in ../grading/*.cool ; do
+    name="${path##*/}"
+    ./lexer ${path} >output/$name.out
+done
+touch log.txt
+mv -v -f ./output ../
+mv -v -f ./log.txt ../
+cd ..
+
+for path in ./output/*.out ; do 
+    name="${path##*/}"
+    echo ${name} >>log.txt
+    diff ./grading/$name ./output/$name >> log.txt
+done   
+mv -v -f ./log.txt ./grammar 
