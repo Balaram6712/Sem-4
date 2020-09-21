@@ -8,6 +8,7 @@ The lexer for handling COOL programs needed to be taken care of in specific main
 4) Keywords
 5) White space
 
+
 Some of the major error areas are:
 1) Null character in a string.
 2) Unterminated string constant when a string is not ended
