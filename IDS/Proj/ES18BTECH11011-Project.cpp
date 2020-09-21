@@ -17,7 +17,8 @@ struct lst
 {
   int v;
   struct lst *link;
-};				//a struct for list
+};				
+//a struct for list
 
 struct lst *susceptible = NULL;
 struct lst *infected = NULL;
